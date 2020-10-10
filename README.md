@@ -1,4 +1,4 @@
-# 1Password Git Credential Helper - Homebrew tap
+# 1Password Git Credential Helper - Homebrew
 
 See https://github.com/git-credential-1password/git-credential-1password for detail.
 
